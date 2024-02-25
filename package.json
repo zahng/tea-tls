@@ -1,0 +1,19 @@
+{
+  "name": "tea-tls",
+  "version": "1.0.5",
+  "description": "MEK AIO",
+  "main": "tea_request.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Tea",
+    "url": "https://github.com/zahng/tea-tls"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  },
+  "type": "module"
+}
