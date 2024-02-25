@@ -1,7 +1,7 @@
 {
   "name": "tea-tls",
-  "version": "1.0.5",
-  "description": "MEK AIO",
+  "version": "1.0.0",
+  "description": "tea tls",
   "main": "tea_request.js",
   "scripts": {
     "test": "node test.js"
